@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Detetive Virtual</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <h1>Detetive Virtual</h1>
+    <textarea id="story" rows="10" cols="50" placeholder="Digite a história aqui"></textarea>
+    <button onclick="solve()">Resolver</button>
+    <div id="result"></div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
