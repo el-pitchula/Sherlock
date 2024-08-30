@@ -46,6 +46,7 @@ Este projeto tem como objetivo criar um detetive virtual capaz de resolver mist√
 
 ```bash
 pip install -r requirements.txt
+```
 
 ##  Estrutura do Projeto
 ...
