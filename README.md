@@ -33,7 +33,7 @@ Este projeto tem como objetivo criar um detetive virtual capaz de resolver mist�
 
 [![Python](https://img.shields.io/badge/python-3.x-brightgreen.svg)](https://www.python.org/)
 [![NLTK](https://img.shields.io/badge/NLTK-natural%20language%20toolkit-blue.svg)](https://www.nltk.org/)
-...
+
 
 ## ⚙️ Configuração do Ambiente
 
