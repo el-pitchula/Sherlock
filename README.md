@@ -46,3 +46,35 @@ Este projeto tem como objetivo criar um detetive virtual capaz de resolver mist�
 
 ```bash
 pip install -r requirements.txt
+
+##  Estrutura do Projeto
+...
+
+##  How to Contribute
+
+If you want to contribute to the project, follow these steps:
+
+1. Fork the repository and clone it to your local machine.
+
+2. Create a new branch for your modifications:
+   ```
+   git checkout -b my-branch
+   ```
+3. Make the desired changes and add them to the stage:
+   ```
+   git add .
+   ```
+4. Commit your changes:
+   ```
+   git commit -m "My modifications"
+   ```
+5. Push your changes to the remote repository:
+   ```
+   git push origin my-branch
+   ```
+6. Open a pull request to have your changes reviewed and incorporated into the project.
+
+<b><br>Enjoy the project!  :) </br></b>
+
+##  Licença
+Este projeto está licenciado sob a licença MIT.
